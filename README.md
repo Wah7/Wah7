@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wah7
-- 👀 I’m interested in Minecraft, minetest, hack clients for anarchy, Discord bots, Python + Java
+- 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me Discord wah#6969
