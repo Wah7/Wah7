@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me Discord DamieMK#6767
 
-<!---
-Wah7/Wah7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord Presence](https://lanyard.cnrad.dev/api/728817652000096277)](https://discord.com/users/728817652000096277)
