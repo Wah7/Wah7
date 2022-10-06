@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me Discord
+- 📫 How to reach me Discord DamieMK#6767
 
 <!---
 Wah7/Wah7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
