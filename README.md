@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Wah7
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me Discord damiemk#6767
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wah7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
