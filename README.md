@@ -1,5 +1,5 @@
 ### Hi, I'm Mik 👋
-- Python 🐍, JS, 
+- Python 🐍, JS, Java ☕
 - Gamer 🎮
 
 #### English
