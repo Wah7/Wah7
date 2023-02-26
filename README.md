@@ -4,6 +4,7 @@ tools used
 
 ---
 
+### Tiếng Việt <img src="https://cdn3.emoji.gg/emojis/5782-flag-svn.png" alt="py" width="25"/>
 ### English 🇬🇧
 ### 日本語 🇯🇵
 
